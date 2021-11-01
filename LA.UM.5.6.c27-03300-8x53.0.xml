@@ -284,7 +284,7 @@
   <project groups="pdk" name="platform/external/tlsdate" path="external/tlsdate" revision="5277834396f52a760bb237044d5539fc4aaa87bb" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/external/toybox" path="external/toybox" revision="6de4b0e52c049c02eed7c597e1c60f5ba9e19748" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/external/tpm2" path="external/tpm2" revision="d704926273cf17498c95ff0dc50b4b17e523c109" upstream="LA.UM.5.6.c27"/>
-  <project groups="pdk" name="" path="external/tremolo" revision="00148b3bada7fe081dc5b9638dfe65a62a01c85f" upstream="LA.UM.5.6.c27"/>
+  <project groups="pdk" name="platform/external/tremolo" path="external/tremolo" revision="00148b3bada7fe081dc5b9638dfe65a62a01c85f" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/external/unicode" path="external/unicode" revision="444f6c05988205a35a8a4269406fe61587217d0b" upstream="LA.UM.5.6.c27"/>
   <project name="platform/external/universal-tween-engine" path="external/universal-tween-engine" revision="fdc20ba6040e08858275612d111ce2f23a7502e4" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/external/v8" path="external/v8" revision="be007aabaca77dd6cc52055493a311c2ade938dd" upstream="LA.UM.5.6.c27"/>
