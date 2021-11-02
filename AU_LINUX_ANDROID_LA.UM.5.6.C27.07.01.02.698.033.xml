@@ -473,7 +473,7 @@
   <project name="platform/system/connectivity/dhcp_client" path="system/connectivity/dhcp_client" revision="c67e5219a3efb284d87109ab7f92afaeeb7533a4" upstream="LA.UM.5.6.c27"/>
   <project name="platform/system/connectivity/shill" path="system/connectivity/shill" revision="269d710ded3ced0d1857430bf2da5a670629afe1" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/system/core" path="system/core" revision="0a303f6fb6e00247490c2e9490cea3da4f73f6cd" upstream="LA.UM.5.6.c27"/>
-  <project groups="pdk" name="" path="system/extras" revision="94f34091c64ad2345d8cd25f1e35f06dde1725b8" upstream="LA.UM.5.6.c27"/>
+  <project groups="pdk" name="platform/system/extras" path="system/extras" revision="94f34091c64ad2345d8cd25f1e35f06dde1725b8" upstream="LA.UM.5.6.c27"/>
   <project name="platform/system/firewalld" path="system/firewalld" revision="cf719c0fcdc0430d7fc1f1bc561780ac3059257b" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/system/gatekeeper" path="system/gatekeeper" revision="e3fab37e2aec7e09a1956ffaa0c05a63a6f539e7" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="platform/system/keymaster" path="system/keymaster" revision="33ce9695a5e91db924a9a237697c168bf84f171d" upstream="LA.UM.5.6.c27"/>
