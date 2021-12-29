@@ -707,7 +707,7 @@
   <project groups="aosp-android10-release,pdk,vts" name="platform/test/vts-testcase/hal-trace" path="test/vts-testcase/hal-trace" revision="3f8db8f5fd26fe0981d3a4b3ddae0dcf60bb8a17" upstream="LA.UM.8.8.c25"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/test/vts-testcase/kernel" path="test/vts-testcase/kernel" revision="8e4e0dac7ef07550b3d78d0f3282e68ee0b98882" upstream="LA.UM.8.8.c25"/>
   <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vts-testcase/nbu" path="test/vts-testcase/nbu" revision="dd03f2eafde21eee24fd141c104577e70b2af111" upstream="LA.UM.8.8.c25"/>
-  <project groups="aosp-android10-release,pdk,projectarch,vts" name="('Connection" path="test/vts-testcase/performance" revision="6ce588df9ebb21faef390a2d5a26bcc9f0b3575d" upstream="LA.UM.8.8.c25"/>
+  <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vts-testcase/performance" path="test/vts-testcase/performance" revision="6ce588df9ebb21faef390a2d5a26bcc9f0b3575d" upstream="LA.UM.8.8.c25"/>
   <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vts-testcase/security" path="test/vts-testcase/security" revision="7591384ffa9c703e13182783dd85469e13cb527f" upstream="LA.UM.8.8.c25"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/test/vts-testcase/vndk" path="test/vts-testcase/vndk" revision="5bfbde358549a20d61d9fb74c1d51b30aeaf5dff" upstream="LA.UM.8.8.c25"/>
   <project groups="aosp-android10-release,pdk,projectarch,tools,tradefed,vts" name="platform/tools/acloud" path="tools/acloud" revision="9e93c76620a6f542c9b2d69a676ec212eb29bbc0" upstream="LA.UM.8.8.c25"/>
