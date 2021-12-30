@@ -196,7 +196,7 @@
   <project groups="aosp-android10-release,pdk" name="platform/external/jemalloc" path="external/jemalloc" revision="1099b00ba024da15a8734b42d6025de4ee2e373b" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/jemalloc_new" path="external/jemalloc_new" revision="319883f68055c8e25cc1633e1dc06e9c9029479a" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk,pdk-fs,tradefed" name="platform/external/jline" path="external/jline" revision="b6a16135b38f29b444d180b4712b0b70c0bbd8ae" upstream="LA.UM.8.3.c25"/>
-  <project groups="aosp-android10-release,pdk" name="('Connection" path="external/jsilver" revision="de41c8261d2310d355368a6d347f3f812f230853" upstream="LA.UM.8.3.c25"/>
+  <project groups="aosp-android10-release,pdk" name="platform/external/jsilver" path="external/jsilver" revision="de41c8261d2310d355368a6d347f3f812f230853" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/jsmn" path="external/jsmn" revision="3a61ce69d83ad0037b083161fcdf08c2edf61bbb" upstream="LA.UM.8.3.c25"/>
   <project groups="qcom-LA.UM.7.3-incoming,vendor" name="platform/external/json-c" path="external/json-c" revision="1509b55c68721360c2431a46d1a1eaab84846e90" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/jsoncpp" path="external/jsoncpp" revision="12444f2b07df0d2922288c03dc7adea5ed0e1594" upstream="LA.UM.8.3.c25"/>
@@ -660,7 +660,7 @@
   <project groups="aosp-android10-release,pdk" name="platform/system/chre" path="system/chre" revision="b7752f81bdbffe72b2bd453d4a7db899a6f658f9" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/system/connectivity/wificond" path="system/connectivity/wificond" revision="1e121e596cb3c39e73c630bae0f2d227b6d3fa42" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/system/connectivity/wifilogd" path="system/connectivity/wifilogd" revision="55fb340bbed95e30efca1957f6e5f53b0a27b66c" upstream="LA.UM.8.3.c25"/>
-  <project groups="aosp-android10-release,pdk" name="('Connection" path="system/core" revision="55927b559f0ce4831aad2680d7a6d24988d4c765" upstream="LA.UM.8.3.c25"/>
+  <project groups="aosp-android10-release,pdk" name="platform/system/core" path="system/core" revision="55927b559f0ce4831aad2680d7a6d24988d4c765" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/system/extras" path="system/extras" revision="25a67bf2e1d857b062372f36b55083ac35f3a9c8" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/system/gatekeeper" path="system/gatekeeper" revision="4a6094b357aefa8d36c4b4fb98dc01b6cbfa3625" upstream="LA.UM.8.3.c25"/>
   <project groups="aosp-android10-release,pdk" name="platform/system/gsid" path="system/gsid" revision="545d1d3366e7c478ea500cd73735be2ee6966e9b" upstream="LA.UM.8.3.c25"/>
