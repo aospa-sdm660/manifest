@@ -358,7 +358,7 @@
   <project name="platform/packages/apps/CMFileManager" path="packages/apps/CMFileManager" revision="049c37d7220ddb84b2c5cda2c1d2896102c35321" upstream="LA.UM.5.7.c25"/>
   <project groups="pdk-fs" name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="809f8a79b0fd250c2dc6abe6cdfb150715865ef2" upstream="LA.UM.5.7.c25"/>
   <project groups="pdk-fs" name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="c3727a8ffac478dbee2ca4fa8c3b33c5e24f5a86" upstream="LA.UM.5.7.c25"/>
-  <project groups="pdk-fs" name="(&quot;Connection" path="packages/apps/Camera" revision="33c59af04ab44eff0e3806f140d472252300646a" upstream="LA.UM.5.7.c25"/>
+  <project groups="pdk-fs" name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="33c59af04ab44eff0e3806f140d472252300646a" upstream="LA.UM.5.7.c25"/>
   <project groups="pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" revision="cb337302666f9e53ba7505a5778b3abcf82f6683" upstream="LA.UM.5.7.c25"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CarrierConfig" path="packages/apps/CarrierConfig" revision="7371351442e0c07d490ffe3ca18df55f84f56442" upstream="LA.UM.5.7.c25"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="a4b6d5ff1985c667c2dc0d2a35d60cdc6a7b4bcf" upstream="LA.UM.5.7.c25"/>
