@@ -20,7 +20,7 @@
   <project groups="device,pdk" name="device/google/accessory/demokit" revision="7dfe7f89a3b174709c773fe319531006e46440d9" upstream="LA.UM.6.1.1.c25"/>
   <project groups="device,fugu,broadcom_pdk,generic_fs,pdk" name="device/google/atv" revision="c7fb0790d0503ffd902d720cfe9b44acf7f2a5bb" upstream="LA.UM.6.1.1.c25"/>
   <project groups="device,marlin" name="device/google/contexthub" revision="5c355518e7e3a5c29e5414063fcb86aceaf0f3cb" upstream="LA.UM.6.1.1.c25"/>
-  <project name="('Connection" revision="9ff95df217098e8fd2e702cb71413cdb43541602" upstream="LA.UM.6.1.1.c25">
+  <project name="device/qcom/common" revision="9ff95df217098e8fd2e702cb71413cdb43541602" upstream="LA.UM.6.1.1.c25">
     <copyfile dest="build.sh" src="build.sh"/>
     <copyfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
   </project>
