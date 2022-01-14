@@ -219,7 +219,7 @@
   <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="platform/external/libcups" path="external/libcups" revision="8b30e75245ac7ed7d93a4ed914bfce3c7b5ce169" upstream="LA.UM.8.12.3.1"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/libcxx" path="external/libcxx" revision="573b12ede26afcfed1a420c4add19b5ea65f07fd" upstream="LA.UM.8.12.3.1"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/libcxxabi" path="external/libcxxabi" revision="4ed23629f904572facae4efba990debb7fd99b27" upstream="LA.UM.8.12.3.1"/>
-  <project groups="aosp-android10-release,pdk" name="('Connection" path="external/libdaemon" revision="77120961009edb04a4e75baaccc7e80c9c3d06ba" upstream="LA.UM.8.12.3.1"/>
+  <project groups="aosp-android10-release,pdk" name="platform/external/libdaemon" path="external/libdaemon" revision="77120961009edb04a4e75baaccc7e80c9c3d06ba" upstream="LA.UM.8.12.3.1"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/libdivsufsort" path="external/libdivsufsort" revision="7e273cd98f0f0ac42290fcaa4d03551e0c5839f2" upstream="LA.UM.8.12.3.1"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/libdrm" path="external/libdrm" revision="11dbddd6c66d8576011011fdd76acd4d68a99af8" upstream="LA.UM.8.12.3.1"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/libese" path="external/libese" revision="9463806f022905614fbb4cce48f2f0e7ef09f931" upstream="LA.UM.8.12.3.1"/>
