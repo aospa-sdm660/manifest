@@ -14,6 +14,8 @@
   <project groups="aosp-android12-release,pdk,qc-common-sys,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/goldfish" revision="35f362f8a181cc4af8201dce0c7afd529a09e871" upstream="LA.UM.10.9.1.r1.1"/>
   <project groups="aosp-android12-release,pdk,qc-common-sys-intf,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/goldfish-opengl" revision="7881187b92d6dd7c247f1aaec599da59a5f55db4" upstream="LA.UM.10.9.1.r1.1"/>
   <project groups="aosp-android12-release,pdk,qc-common-sys,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/mini-emulator-arm64" revision="8eca1bdccc17be230f8fcd63cbbd37ec342d4029" upstream="LA.UM.10.9.1.r1.1"/>
+  <project name="platform/vendor/qcom-opensource/core-utils-sys" path="vendor/qcom/opensource/core-utils-sys" revision="a9e7ef915df0b3415a1c94cc39d358477aadfbf3" upstream="LA.UM.10.9.1.r1"/>
+  <project name="platform/vendor/qcom-opensource/core-utils-vendor" path="vendor/qcom/opensource/core-utils-vendor" revision="86168e7815ce5300cd3f5106a114efc3d373a508" upstream="LA.UM.10.9.1.r1"/>
   <project groups="aosp-android12-release,pdk,qc-common-sys,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/mini-emulator-armv7-a-neon" revision="30cd74bacfd8cd4d0688de6bd35ca32e5295e94e" upstream="LA.UM.10.9.1.r1.1"/>
   <project groups="aosp-android12-release,pdk,qc-common-sys,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/mini-emulator-x86" revision="86676ff20f27657442fdc97b08c23c98f70e8400" upstream="LA.UM.10.9.1.r1.1"/>
   <project groups="aosp-android12-release,pdk,qc-common-sys,vsdk_exc_L2,vsdk_exc_L1,vsdk_exc_L3" name="device/generic/mini-emulator-x86_64" revision="76fa40867a01e912558c74fe7cb52639a87c0f96" upstream="LA.UM.10.9.1.r1.1"/>
