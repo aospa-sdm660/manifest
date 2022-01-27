@@ -686,7 +686,7 @@
   <project name="platform/frameworks/opt/net/wifi" path="frameworks/opt/net/wifi" revision="a82e5481806b32d25d924b61b25ba90b8a967390" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/frameworks/opt/photoviewer" path="frameworks/opt/photoviewer" revision="a5e11881ec5d88d04620aa10120a767678a4605a" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/frameworks/opt/setupwizard" path="frameworks/opt/setupwizard" revision="dd8d5e501be441a236d872841b47879a6d461737" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
-  <project name="('Connection" path="frameworks/opt/telephony" revision="51302ef5e1a2f5c13b4db2650a1c52735ccca992" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
+  <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony" revision="51302ef5e1a2f5c13b4db2650a1c52735ccca992" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/frameworks/opt/timezonepicker" path="frameworks/opt/timezonepicker" revision="d47804eb4d70d420553ede025a218a3588d5769f" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/frameworks/opt/tv/tvsystem" path="frameworks/opt/tv/tvsystem" revision="0a91eb7ffbc33e345bb780e2212037f068c11b15" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="f7039eb694d70e72e5aba5f35842fda06c968cb4" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
@@ -880,7 +880,7 @@
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="848a525673c0ead7acb4fade592ecf31e892fc0c" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/pdk" path="pdk" revision="835943fb776b48f63f11b3013f1c8d6cfd8b5c34" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/platform_testing" path="platform_testing" revision="4ecaa910b5b4976911fdf0bdba6833fcffe0005f" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
-  <project name="('Connection" path="prebuilts/abi-dumps/ndk" revision="df75e38144b4cdddfe90e9adf59aa3acb673ba5d" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
+  <project name="platform/prebuilts/abi-dumps/ndk" path="prebuilts/abi-dumps/ndk" revision="df75e38144b4cdddfe90e9adf59aa3acb673ba5d" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/abi-dumps/platform" path="prebuilts/abi-dumps/platform" revision="6b21b007f9186f00d48b16724ab4a6058c9f2809" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/abi-dumps/vndk" path="prebuilts/abi-dumps/vndk" revision="9a639de2a8ae9bdf940e1904173feaffc7b3ad45" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/android-emulator" path="prebuilts/android-emulator" revision="c3e3c95984cf029b07d669abf1ed72510fa7dcd7" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
@@ -891,7 +891,7 @@
   <project name="platform/prebuilts/bundletool" path="prebuilts/bundletool" revision="39ea0ab0c59879ff35007664c9b30f4d5e00546f" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/checkcolor" path="prebuilts/checkcolor" revision="0b0d3da02d9b280b802c9d7d10cd274d4ac85854" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/checkstyle" path="prebuilts/checkstyle" revision="9a1120705f2d9c38fd95fdfba7147c6a03e82e2a" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
-  <project name="('Connection" path="prebuilts/clang-tools" revision="775b08c8aaf9210f53b16d9ed87e84fcaf7e1b43" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
+  <project name="platform/prebuilts/clang-tools" path="prebuilts/clang-tools" revision="775b08c8aaf9210f53b16d9ed87e84fcaf7e1b43" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/clang/host/darwin-x86" path="prebuilts/clang/host/darwin-x86" revision="98ec6b8d8647737f74b7e036fdd2a1522a4e4946" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" revision="3f17560d9bd078537f29294c2bcf80b591821a09" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
   <project name="platform/prebuilts/cmdline-tools" path="prebuilts/cmdline-tools" revision="63236353fc15c49948bb0451674db8dbfd098139" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
