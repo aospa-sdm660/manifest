@@ -691,7 +691,7 @@
   <project groups="aosp-android10-release,pdk" name="platform/test/mlts/benchmark" path="test/mlts/benchmark" revision="9c6ab9502478e6f9148854e8990893c0e39138c3" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
   <project groups="aosp-android10-release,pdk" name="platform/test/mlts/models" path="test/mlts/models" revision="26e586d8a83dab024a6c033ff667b71673514cab" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
   <project groups="aosp-android10-release" name="platform/test/mts" path="test/mts" revision="ac234cf78ed77d6eabd635d6cd50640c8d0369b1" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
-  <project groups="aosp-android10-release,cts,pdk-cw-fs,pdk-fs" name="('Connection" path="test/suite_harness" revision="b7d653f577d5d9e2f51e40e2d3b24e1708e0652f" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
+  <project groups="aosp-android10-release,cts,pdk-cw-fs,pdk-fs" name="platform/test/suite_harness" path="test/suite_harness" revision="b7d653f577d5d9e2f51e40e2d3b24e1708e0652f" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
   <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vti/alert" path="test/vti/alert" revision="2270d160e38f0623d708cce36754fe14168dce64" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
   <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vti/dashboard" path="test/vti/dashboard" revision="312a49bae192536c1a79a6104cb2bfa1132a6364" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
   <project groups="aosp-android10-release,pdk,projectarch,vts" name="platform/test/vti/fuzz_test_serving" path="test/vti/fuzz_test_serving" revision="261b0f5cf95a4833b52cfd240c588a9948666e27" upstream="refs/heads/ks-aosp.lnx.2.0.r28-rel"/>
