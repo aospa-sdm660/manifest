@@ -5,7 +5,7 @@
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2" revision="8e06dfd3ceeb323546d330e918d19c542d2daee2" upstream="refs/heads/uefi.lnx.2.0.r17-rel"/>
   <project name="camera-samples" path="vendor/qcom/opensource/camera-samples" revision="c0dcdd4996c59ac0d596c5c8bbe192ff7155a9d1" upstream="refs/heads/iot-concam-apk.lnx.1.1.r1-rel"/>
   <project groups="aosp-android10-release,device,pdk,yukawa" name="device/amlogic/yukawa" revision="e6bdb83eb57cd9fa46d827950b4d52ffe8e101d3" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
-  <project groups="aosp-android10-release,device,pdk,yukawa" name="('Connection" revision="07b36535a6f33844060a580b0bd38472e5752aae" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
+  <project groups="aosp-android10-release,device,pdk,yukawa" name="device/amlogic/yukawa-kernel" revision="07b36535a6f33844060a580b0bd38472e5752aae" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk,pdk-cw-fs" name="device/common" revision="d6aaac1049e9c3f6a0aae0672500b3e9042bea19" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk" name="device/generic/arm64" revision="2337fe4abf70460b166df34587ea18a0843197dd" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk" name="device/generic/armv7-a-neon" revision="2bb8590591e663f79a6ab3d9b36ad556fb8852c4" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
@@ -584,7 +584,7 @@
   <project groups="aosp-android10-release,pdk-fs" name="platform/packages/apps/WallpaperPicker2" path="packages/apps/WallpaperPicker2" revision="2e7623e054157b35c21d55af4d8124b9bc28dc53" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk-fs" name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="dead7464cdc1401542a6b983fbe86f1e3b9e4f9c" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="platform/packages/modules/CaptivePortalLogin" path="packages/modules/CaptivePortalLogin" revision="24f969252979196f20842c43e2d14eb66d5f55e6" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
-  <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="('Connection" path="packages/modules/ExtServices" revision="50a221a7b5557f6accdcf3fa67765bc315c4fdfd" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
+  <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="platform/packages/modules/ExtServices" path="packages/modules/ExtServices" revision="50a221a7b5557f6accdcf3fa67765bc315c4fdfd" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk" name="platform/packages/modules/ModuleMetadata" path="packages/modules/ModuleMetadata" revision="98ddffe3ddbfcbe0d91e2a3ca31bc08fa5679973" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="platform/packages/modules/NetworkPermissionConfig" path="packages/modules/NetworkPermissionConfig" revision="e4a595f1499153c66b3788cce56f1058ca79d7f7" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
   <project groups="aosp-android10-release,pdk-cw-fs,pdk-fs" name="platform/packages/modules/NetworkStack" path="packages/modules/NetworkStack" revision="2479fe586d0ac0478ea7bc629cfd37bf5c403552" upstream="refs/heads/ks-aosp.lnx.2.0.r26-rel"/>
