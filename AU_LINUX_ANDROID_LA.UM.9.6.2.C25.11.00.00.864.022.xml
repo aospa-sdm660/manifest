@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,device,pdk,yukawa" name="device/amlogic/yukawa" revision="df9c99510359ecadd6c8ea2b52b0127565e940a7" upstream="LA.UM.9.6.2.c25"/>
   <project clone-depth="2" groups="aosp-android11-release,device,pdk,yukawa" name="device/amlogic/yukawa-kernel" revision="7807a99270a74b5fdf39e1b8d6892911c38245e0" upstream="LA.UM.9.6.2.c25"/>
@@ -154,7 +154,7 @@
   <project groups="aosp-android11-release,pdk" name="platform/external/expat" path="external/expat" revision="ea0c6fd74d1aba22882e12dca3323f02470b7970" upstream="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,pdk" name="platform/external/f2fs-tools" path="external/f2fs-tools" revision="f52599da3405b2f999c06252db62977de5e7275a" upstream="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,pdk" name="platform/external/fastrpc" path="external/fastrpc" revision="7fad0485a6580e76714268a171ddaa30137695b7" upstream="LA.UM.9.6.2.c25"/>
-  <project groups="aosp-android11-release,pdk" name="('Connection" path="external/fdlibm" revision="007db5e2c82dc3069f577e4936597101deb35a62" upstream="LA.UM.9.6.2.c25"/>
+  <project groups="aosp-android11-release,pdk" name="platform/external/fdlibm" path="external/fdlibm" revision="007db5e2c82dc3069f577e4936597101deb35a62" upstream="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,pdk" name="platform/external/fec" path="external/fec" revision="81be3601c7b5ac2df040b880ccdb160bba745fdd" upstream="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,pdk" name="platform/external/flac" path="external/flac" revision="51f16c1b009db51321f3668db29ef1db9fccbed2" upstream="LA.UM.9.6.2.c25"/>
   <project groups="aosp-android11-release,pdk" name="platform/external/flatbuffers" path="external/flatbuffers" revision="dba029de9e88a2d1869aadc8e90daca9a3bb48e2" upstream="LA.UM.9.6.2.c25"/>
