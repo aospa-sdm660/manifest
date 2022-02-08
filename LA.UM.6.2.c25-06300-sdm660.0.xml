@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="LA.UM.6.2.c25"/>
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2" revision="7a0c4497228129a67072f3088fa8eab7a97e9e00" upstream="LA.UM.6.2.c25"/>
   <project name="device/common" revision="44f3e76431cd7ab8d546d4eac9fccd391f28bc15" upstream="LA.UM.6.2.c25"/>
