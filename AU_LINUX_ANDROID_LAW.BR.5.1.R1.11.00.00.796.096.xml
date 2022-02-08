@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="LAW.BR.5.1.r1.5"/>
   <project groups="device,pdk,r-fs-release,yukawa" name="device/amlogic/yukawa" revision="38066ab343dece0f33ae8444dd9a9759dc8791d5" upstream="LAW.BR.5.1.r1.5"/>
   <project clone-depth="2" groups="device,pdk,r-fs-release,yukawa" name="device/amlogic/yukawa-kernel" revision="7807a99270a74b5fdf39e1b8d6892911c38245e0" upstream="LAW.BR.5.1.r1.5"/>
@@ -802,7 +802,7 @@
     <linkfile dest="vendor/qcom/defs/product-defs/legacy/power-vendor-product.mk" src="power-vendor-product.mk"/>
     <linkfile dest="vendor/qcom/defs/board-defs/legacy/power-vendor-board.mk" src="power-vendor-board.mk"/>
   </project>
-  <project name="('Connection" path="vendor/qcom/opensource/recovery-ext" revision="d3e335019b1250cf8e9b328187c81ec9d3c96afe" upstream="LAW.BR.5.1.r1.5"/>
+  <project name="platform/vendor/qcom-opensource/recovery-ext" path="vendor/qcom/opensource/recovery-ext" revision="d3e335019b1250cf8e9b328187c81ec9d3c96afe" upstream="LAW.BR.5.1.r1.5"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe" path="shortcut-fe" revision="214ece874ced71fcbeb2fbc0a218b0824be60c34" upstream="LAW.BR.5.1.r1.5"/>
   <project name="platform/vendor/qcom-opensource/system/bt" path="vendor/qcom/opensource/commonsys/system/bt" revision="641b28f3338413426d554c86ab0c062054c2f240" upstream="LAW.BR.5.1.r1.5"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine" path="vendor/qcom/opensource/thermal-engine" revision="3254395841b3d4dec4b309494dac256fe2c68aa4" upstream="LAW.BR.5.1.r1.5"/>
