@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,device,pdk,yukawa" name="device/amlogic/yukawa" revision="e6bdb83eb57cd9fa46d827950b4d52ffe8e101d3" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,device,pdk,yukawa" name="device/amlogic/yukawa-kernel" revision="07b36535a6f33844060a580b0bd38472e5752aae" upstream="LA.UM.8.6.2.c28"/>
@@ -318,7 +318,7 @@
   <project groups="aosp-android10-release,pdk" name="platform/external/python/dateutil" path="external/python/dateutil" revision="9fe6c6d5e09f676397799c5582056e9ca62400b9" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/external/python/dill" path="external/python/dill" revision="c9d587409f228acb3d07fd04e0ea573381a855d8" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/external/python/enum" path="external/python/enum" revision="e1d32096ea8b5c6cb5430e5f089eb9207f9628ac" upstream="LA.UM.8.6.2.c28"/>
-  <project groups="aosp-android10-release,pdk,vts" name="('Connection" path="external/python/enum34" revision="6e846548ec512aa02ddcff459720a4106e9cf035" upstream="LA.UM.8.6.2.c28"/>
+  <project groups="aosp-android10-release,pdk,vts" name="platform/external/python/enum34" path="external/python/enum34" revision="6e846548ec512aa02ddcff459720a4106e9cf035" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,pdk" name="platform/external/python/funcsigs" path="external/python/funcsigs" revision="3ceecb06482521e4453bf70190c998d1893833cf" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/external/python/future" path="external/python/future" revision="dd801515259d6da149abec6f45b7ab793e74f8eb" upstream="LA.UM.8.6.2.c28"/>
   <project groups="aosp-android10-release,pdk,vts" name="platform/external/python/futures" path="external/python/futures" revision="0a29bfef15ca42b95993c6ca464524723dfe6193" upstream="LA.UM.8.6.2.c28"/>
