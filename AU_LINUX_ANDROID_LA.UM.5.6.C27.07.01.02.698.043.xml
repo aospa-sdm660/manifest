@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="LA.UM.5.6.c27"/>
   <project groups="pdk-cw-fs,pdk-fs" name="device/common" revision="48c94d0b2799f334e3a7d301100480deb2770cfb" upstream="LA.UM.5.6.c27"/>
   <project groups="pdk" name="device/generic/arm64" revision="20fcdc082d1bfa8d183170a19d141c33270bf381" upstream="LA.UM.5.6.c27"/>
