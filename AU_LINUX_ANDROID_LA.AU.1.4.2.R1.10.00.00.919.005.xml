@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://codeaurora.org/quic/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
   <default remote="clo" revision="partner-android/s-fs-release"/>
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2" revision="85ef7c1d3232c9927513b6933a9f1d1043192c0a" upstream="refs/heads/auto-uefi.lnx.2.1.r7-rel"/>
   <project name="device/amlogic/yukawa" revision="2f132d927bbad8b6b7cc57669dc34f2f7b71a78e" upstream="refs/heads/automotive-aosp.lnx.3.1.r5-rel"/>
