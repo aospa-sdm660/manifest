@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
-  <remote fetch="https://git.codelinaro.org/clo/automitive" name="clo-automotive" review="codelinaro.org"/>
+  <remote fetch="https://git.codelinaro.org/clo/automotive" name="clo-automotive" review="codelinaro.org"/>
   <default remote="clo" revision="LA.HB.1.1.5_rb1.62"/>
   <project name="device/common" revision="44f3e76431cd7ab8d546d4eac9fccd391f28bc15" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="device/generic/arm64" revision="392eec3cb4c64721cd5b76fa36535954b5d45309" upstream="LA.HB.1.1.5_rb1.62"/>
