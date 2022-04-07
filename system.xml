@@ -57,7 +57,7 @@
   <project name="platform/bionic" path="bionic"/>
   <project name="platform/bootable/libbootloader" path="bootable/libbootloader"/>
   <project name="platform/bootable/recovery" path="bootable/recovery"/>
-  <project name="platform/build" path="build/make">
+  <project name="platform/build_repo" path="build/make">
     <copyfile dest="Makefile" src="core/root.mk"/>
     <linkfile dest="build/CleanSpec.mk" src="CleanSpec.mk"/>
     <linkfile dest="build/buildspec.mk.default" src="buildspec.mk.default"/>
@@ -90,7 +90,6 @@
   <project name="platform/external/XNNPACK" path="external/XNNPACK"/>
   <project name="platform/external/aac" path="external/aac"/>
   <project name="platform/external/abseil-cpp" path="external/abseil-cpp"/>
-  <project name="platform/external/adhd" path="external/adhd"/>
   <project name="platform/external/adt-infra" path="external/adt-infra"/>
   <project name="platform/external/android-clat" path="external/android-clat"/>
   <project name="platform/external/androidplot" path="external/androidplot"/>
@@ -609,6 +608,7 @@
   <project name="platform/external/testng" path="external/testng"/>
   <project name="platform/external/tflite-support" path="external/tflite-support"/>
   <project clone-depth="2" name="platform/external/timezone-boundary-builder" path="external/timezone-boundary-builder"/>
+  <project name="platform/external/TestParameterInjector" path="external/TestParameterInjector"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa"/>
   <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new"/>
   <project name="platform/external/tinycompress" path="external/tinycompress"/>
@@ -624,13 +624,12 @@
   <project name="platform/external/vboot_reference" path="external/vboot_reference"/>
   <project name="platform/external/virglrenderer" path="external/virglrenderer"/>
   <project name="platform/external/vixl" path="external/vixl"/>
-  <project name="platform/external/vm_tools/p9" path="external/vm_tools/p9"/>
   <project name="platform/external/vogar" path="external/vogar"/>
   <project name="platform/external/volley" path="external/volley"/>
   <project name="platform/external/vulkan-headers" path="external/vulkan-headers"/>
   <project name="platform/external/vulkan-validation-layers" path="external/vulkan-validation-layers"/>
   <project name="platform/external/walt" path="external/walt"/>
-  <project name="platform/external/wayland" path="external/wayland"/>
+  <project name="platform/external/wayland_repo" path="external/wayland_repo"/>
   <project name="platform/external/wayland-protocols" path="external/wayland-protocols"/>
   <project name="platform/external/webp" path="external/webp"/>
   <project name="platform/external/webrtc" path="external/webrtc"/>
