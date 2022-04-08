@@ -831,7 +831,7 @@
   <project clone-depth="1" name="platform/prebuilts/abi-dumps/ndk" path="prebuilts/abi-dumps/ndk"/>
   <project name="platform/prebuilts/abi-dumps/platform" path="prebuilts/abi-dumps/platform"/>
   <project name="platform/prebuilts/abi-dumps/vndk" path="prebuilts/abi-dumps/vndk"/>
-  <project name="platform/prebuilts/android-emulator" path="prebuilts/android-emulator"/>
+  <project name="platform/prebuilts/android-emulator" path="prebuilts/android-emulator" remote="aosp"/>
   <project name="platform/prebuilts/asuite" path="prebuilts/asuite"/>
   <project name="platform/prebuilts/bazel/linux-x86_64" path="prebuilts/bazel/linux-x86_64"/>
   <project name="platform/prebuilts/build-tools" path="prebuilts/build-tools"/>
