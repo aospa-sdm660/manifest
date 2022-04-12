@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
+  <remote fetch="https://git.codelinaro.org/clo/automotive" name="clo-automotive" review="codelinaro.org"/>
   <default remote="clo" revision="LA.HB.1.1.5_rb1.62"/>
   <project name="device/common" revision="44f3e76431cd7ab8d546d4eac9fccd391f28bc15" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="device/generic/arm64" revision="392eec3cb4c64721cd5b76fa36535954b5d45309" upstream="LA.HB.1.1.5_rb1.62"/>
@@ -59,7 +60,7 @@
   <project name="platform/docs/source.android.com" path="docs/source.android.com" revision="5766cd3e8210e84584e0f7a8364ec1d13ec3062d" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="platform/external/ImageMagick" path="external/ImageMagick" revision="f1b07c344c63598eedc07c24ea869a7303809500" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="platform/external/Microsoft-GSL" path="external/Microsoft-GSL" revision="c7231a8b061cb44839292cf4de1aa2b8d3fc165f" upstream="LA.HB.1.1.5_rb1.62"/>
-  <project name="platform/external/Open-AVB" path="external/open-avb" revision="b47315dc8dab6a9e768a819d59ad6ddccc989bdb" upstream="LA.HB.1.1.5_rb1.62"/>
+  <project name="platform/external/Open-AVB" remote="clo-automotive" path="external/open-avb" revision="b47315dc8dab6a9e768a819d59ad6ddccc989bdb" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="platform/external/aac" path="external/aac" revision="cd05647d5b46d6c7a1cb21c1c80464348b6256e8" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="platform/external/abi-compliance-checker" path="external/abi-compliance-checker" revision="2cce41de7ef1c23f88acc611becf1431278f78e1" upstream="LA.HB.1.1.5_rb1.62"/>
   <project name="platform/external/abi-dumper" path="external/abi-dumper" revision="cc46cfba951e4de6c50a8fddb058f32644319311" upstream="LA.HB.1.1.5_rb1.62"/>
